@@ -1,0 +1,22 @@
+{
+  "catalogVersion": 1,
+  "decks": [
+    {
+      "id": "first-words-en-es",
+      "version": 4,
+      "formatVersion": 1,
+      "name": "Primeras palabras",
+      "description": "109 palabras para chicos: escuchá la consigna o la palabra en inglés y tocá la imagen correcta.",
+      "tags": [
+        "Palabras",
+        "Para chicos"
+      ],
+      "language": "en",
+      "nativeLanguage": "es",
+      "wordCount": 109,
+      "file": "first-words-en-es-v4.zip",
+      "bytes": 2048777,
+      "sha256": "8d845995387bc8f236963693ee0696aa26a5d7f0c992380ce959e75a5418f596"
+    }
+  ]
+}
